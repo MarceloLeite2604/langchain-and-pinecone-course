@@ -1,2 +1,6 @@
+# Python virtual environment files
 venv
+# Environment files
 .env
+# SQLite Database files
+*.db
