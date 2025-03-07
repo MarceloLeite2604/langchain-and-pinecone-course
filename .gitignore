@@ -4,3 +4,6 @@ venv
 .env
 # SQLite Database files
 *.db
+
+# Trivial input files
+**/files

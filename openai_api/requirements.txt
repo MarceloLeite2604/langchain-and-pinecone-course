@@ -3,7 +3,8 @@ langchain
 langchain_openai
 langchain_experimental
 langchainhub
-pinecone-client
+langchain-community==0.3.4
+pinecone==5.3.1
 python-dotenv
 tiktoken
 docx2txt
@@ -13,3 +14,5 @@ pandas
 aiohttp
 PyYAML
 numpy
+langchain-google-genai
+google-generativeai
